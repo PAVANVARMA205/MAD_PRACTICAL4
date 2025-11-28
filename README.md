@@ -12,4 +12,5 @@
 
 
 **OUTPUT**
-<img width="1920" height="1080" alt="Screenshot (114)" src="https://github.com/user-attachments/assets/05c52446-c97b-4ed4-8bcb-9f6a24632c80" />
+
+![WhatsApp Image 2025-11-28 at 09 55 33_b0b42cf1](https://github.com/user-attachments/assets/a7595f9e-a234-4bd1-acc7-0caaab0df544)
